@@ -1,0 +1,2 @@
+# premium-balloon-001-hot-air-balloon-gore-pattern-c
+Spending hours manually calculating gore patterns for hot air balloon fabric? Stop guessing on angles, widths, and seam allowances—the Hot Air Balloon Gore Pattern Calculator automates your entire design workflow in minutes.  This Notion template eliminates the math headaches that slow down balloon makers, designers, and fabric engineers. Input you
